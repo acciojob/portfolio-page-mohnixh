@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+.container{
+	width: 300px;
+	height: 550px;
+	border: 2px solid black
+}
+
+img{
+	width: 200px;
+	height: 250px;
+}
+
+h1{
+	margin-inline: 20px
+}
+a{
+	margin-inline: 20px;
+}
+#skills{
+	margin: 20px;
+}
